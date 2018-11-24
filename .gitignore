@@ -1,0 +1,13 @@
+#ejecutables
+*.com
+*.exe
+*.sh
+
+# paquetes
+*.zip
+
+
+
+# logs
+*.log
+*.sql
